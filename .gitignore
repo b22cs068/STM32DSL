@@ -1,0 +1,11 @@
+/Debug/ 
+/Release/ 
+.settings/ 
+*.ioc 
+*.launch 
+*.log 
+*.swo 
+*.bak 
+*.tmp 
+.DS_Store 
+Thumbs.db 
